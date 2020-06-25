@@ -1,5 +1,9 @@
 
-# Title
+# PDF Lists
+
+This repositoryis a collection of PDF book for computer programe.
+===
+
 
 ## C&C++
 - Binary.Hacks 黑客秘笈100选.pdf
@@ -15,9 +19,9 @@
 
 
 ## python
-_ Python 学习笔记 第二版.pdf
-_ Violent Python.pdf
-_ 笨方法学python.pdf
+- Python 学习笔记 第二版.pdf
+- Violent Python.pdf
+- 笨方法学python.pdf
 
 ## scala
 - chisel-book.pdf
